@@ -10,7 +10,7 @@ Saans turns one city-wide AQI into a street-level air-quality nowcast, a persona
 
 ## Overview
 
-"Saans" means "breath" in Hindi and Urdu. In urban centers across South Asia, official monitoring stations report a single, aggregated Air Quality Index (AQI) number for an entire metropolitan region. However, air quality varies block by block, and human exposure is deeply individualized.
+"Saans" means "breath". In urban centers across South Asia, official monitoring stations report a single, aggregated Air Quality Index (AQI) number for an entire metropolitan region. However, air quality varies block by block, and human exposure is deeply individualized.
 
 Saans bridges the gap between macro atmospheric observations and human-level protection by transforming disparate environmental telemetry into street-level resolution, personal inhaled pollution calculations, and automated institutional safeguards.
 
